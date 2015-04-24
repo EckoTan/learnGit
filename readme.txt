@@ -3,4 +3,7 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 Just push my local repo to Github!
-Creating a new branch in Git is very quick!
+Creating a new branch in Git is very fast!!
+
+
+Now is in branch dev
